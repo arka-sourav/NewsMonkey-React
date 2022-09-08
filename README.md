@@ -73,5 +73,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This is functional component code..
 
-To access class-based-components in your
+To access class-based-components in your code base
 $ git checkout class-based-components
